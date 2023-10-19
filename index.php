@@ -13,7 +13,6 @@
         Primer uso de PHP</h1>
 
     <h2>Primer Bloque PHP</h2>
-    <h2>Primer Bloque PHP</h2>
     <?php
     $nombre = 'Gael';
     $edad = 49;
